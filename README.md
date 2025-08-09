@@ -64,8 +64,3 @@ Fonctionnalités principales
 Auteurs
 Sean Van-Ngoc
 Ronan Le Pabic
-
-
-
-Login admin : admin@gmai.com
-mdp admin : admin
